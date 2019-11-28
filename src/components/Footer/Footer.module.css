@@ -1,0 +1,33 @@
+.Footer {
+    margin: 0 ;
+    padding: 0 .5rem 1.5rem;
+    height: 10%;
+    width: 100%;
+
+    min-height: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: justify;
+    background: red;
+    opacity: 0.9;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+    color: blue;
+
+}
+.Separator {
+    height: 1px;
+    background: #D6D6D6;
+    width: 100%;
+    margin-left: 2rem;
+}
+@media only screen and (min-width:600px) {
+    .Footer {
+
+        margin: 0 auto;
+        padding: .5rem 0;
+    }
+}
