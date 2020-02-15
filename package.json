@@ -15,7 +15,7 @@
     "three-gltf-loader": "^1.110.0",
     "three-orbit-controls": "^82.1.0",
     "three-orbitcontrols": "^2.110.1",
-    "yarn": "^1.19.2"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "start": "react-scripts start",
